@@ -1,0 +1,70 @@
+Reserved word: start_prg
+Reserved word: number
+Identifier: n
+Separator: ,
+Illegal identifier at line 1 
+Identifier: tart
+Operator: :=
+Constant: 1
+Separator: ;
+Reserved word: if
+Identifier: n
+Operator: <=
+Constant: 1
+Separator: :
+Reserved word: start
+Illegal identifier at line 4 
+Identifier: tart
+Operator: :=
+0Separator: ;
+Reserved word: stop
+Reserved word: loop
+Reserved word: number
+Identifier: i
+Operator: :=
+Constant: 2
+Separator: ;
+Identifier: i
+Operator: <
+Identifier: n
+Separator: ;
+Identifier: i
+Operator: +
+=Constant: 1
+Separator: :
+Reserved word: start
+Reserved word: if
+Identifier: n
+%Identifier: i
+Operator: ==
+0Separator: :
+Reserved word: start
+Illegal identifier at line 10 
+Identifier: tart
+Operator: :=
+0Separator: ;
+Reserved word: stop
+Reserved word: stop
+Reserved word: if
+Illegal identifier at line 13 
+Identifier: tart
+Operator: ==
+Constant: 1
+Separator: :
+Reserved word: start
+Reserved word: print
+Constant: nr is prime
+"Separator: ;
+Reserved word: stop
+Reserved word: else
+Separator: :
+Reserved word: start
+Reserved word: print
+Expected end of string on line 19
+Identifier: r
+Identifier: is
+Identifier: not
+Identifier: prime
+Separator: ;
+Reserved word: stop
+Reserved word: end_prg
